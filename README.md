@@ -1,2 +1,1 @@
-# hello-world
-A repository for ideas and resources
+Just filling my readme file with something
